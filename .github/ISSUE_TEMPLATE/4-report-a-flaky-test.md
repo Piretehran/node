@@ -1,7 +1,9 @@
 ---
 name: Report a flaky test
 about: Report a flaky test in our CI
-labels: "CI / flaky test"
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
